@@ -8,4 +8,5 @@ Backend: Node Js,Express, Chat Engine has APIs and sockets for hosting chats
 Frontend:Node Js, Express, prebuilt chat UI components, free building blocks for chat UIs
 
 
-Technologies: Vite, Chat engine api, axios, react chat engine advanced 
+Technologies: Vite, Chat engine api, axios, react chat engine advanced.
+
