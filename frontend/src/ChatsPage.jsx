@@ -13,4 +13,5 @@ const ChatsPage = (props) => {
   );
 }
 
+// Export ChatsPage component as the default export
 export default ChatsPage;
